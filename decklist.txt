@@ -1,67 +1,85 @@
-Rohgahh of Kher Keep: Legendary Creature — Kobold, {2}{B}{B}{R}{R}
-Rubblebelt Boar: Creature — Boar:  
-Sengir Vampire: Creature — Vampire:  
-Junkyard Genius: Creature — Human Artificer:  
-Coal Golem: Artifact Creature — Golem:  
-Fervent Champion: Creature — Human Knight:  
-Drifting Shade: Creature — Shade:  
-Basal Thrull: Creature — Thrull:  
-Embodiment of Fury: Creature — Elemental:  
-Bazaar Trader: Creature — Goblin:  
-Shell Skulkin: Artifact Creature — Scarecrow:  
-Treasure Nabber: Creature — Goblin Rogue:  
-Arms Dealer: Creature — Goblin Rogue:  
-Necroplasm: Creature — Ooze:  
-Gonti, Lord of Luxury: Legendary Creature — Aetherborn Rogue:  
-Time Reaper: Creature — Alien Horror:  
-Ore Gorger: Creature — Spirit:  
-Bloodtithe Collector: Creature — Vampire Noble:  
-Maulfist Squad: Creature — Human Artificer:  
-Defiant Salvager: Creature — Aetherborn Artificer:  
-Pardic Lancer: Creature — Human Barbarian:  
-Rime Transfusion: Snow Enchantment — Aura:  
-Burning Sands: Enchantment:  
-Chthonian Nightmare: Enchantment:  
-Rumbling Crescendo: Enchantment:  
-Inner Demon: Enchantment — Aura:  
-Where Ancients Tread: Enchantment:  
-Fervor: Enchantment:  
-Bloodfire Infusion: Enchantment — Aura:  
-Pestilence: Enchantment:  
-Flowstone Blade: Enchantment — Aura:  
-Hazoret's Monument: Legendary Artifact:  
-Fifty Feet of Rope: Artifact:  
-Crumbling Sanctuary: Artifact:  
-Anvilwrought Raptor: Artifact Creature — Bird:  
-Chrome Steed: Artifact Creature — Horse:  
-Slicer, Hired Muscle // Slicer, High-Speed Antagonist: Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle:  
-Crystal Rod: Artifact:  
-Bomat Courier: Artifact Creature — Construct:  
-Ring of Kalonia: Artifact — Equipment:  
-Lead Pipe: Artifact — Clue Equipment:  
-Flowstone Thopter: Artifact Creature — Thopter:  
-Matzalantli, the Great Door // The Core: Legendary Artifact // Legendary Land:  
-Infiltration Lens: Artifact — Equipment:  
-Library of Leng: Artifact:  
-Implement of Malice: Artifact:  
-Liliana Vess: Legendary Planeswalker — Liliana:  
-Liliana, Death Mage: Legendary Planeswalker — Liliana:  
-Chandra, Legacy of Fire: Legendary Planeswalker — Chandra:  
-Liliana of the Veil: Legendary Planeswalker — Liliana:  
-Jaya Ballard: Legendary Planeswalker — Jaya:  
-Jaya, Fiery Negotiator: Legendary Planeswalker — Jaya:  
-Lolth, Spider Queen: Legendary Planeswalker — Lolth:  
-Liliana, Heretical Healer // Liliana, Defiant Necromancer: Legendary Creature — Human Cleric // Legendary Planeswalker — Liliana:  
-Sorin the Mirthless: Legendary Planeswalker — Sorin:  
-Karn, Living Legacy: Legendary Planeswalker — Karn:  
-Shatterskull Smashing // Shatterskull, the Hammer Pass: Sorcery // Land:  
-Sandstone Needle: Land:  
-Howltooth Hollow: Land:  
-Akoum Refuge: Land:  
-Labyrinth of Skophos: Land:  
-Thriving Moor: Land:  
-Spikefield Hazard // Spikefield Cave: Instant // Land:  
-Archway Commons: Land:  
+Anowon, the Ruin Thief: Legendary Creature — Vampire Rogue, {2}{U}{B}
+Lore Weaver: Creature — Human Wizard:  
+Demon of Fate's Design: Enchantment Creature — Demon:  
+Stronghold Taskmaster: Creature — Giant Minion:  
+Soul Collector: Creature — Vampire:  
+Supreme Inquisitor: Creature — Human Wizard:  
+Flesh-Eater Imp: Creature — Phyrexian Imp:  
+Volatile Rig: Artifact Creature — Construct:  
+Gilded Scuttler: Artifact Creature — Crab:  
+Terisian Mindbreaker: Artifact Creature — Juggernaut:  
+Silent Assassin: Creature — Human Mercenary Assassin:  
+Geyserfield Stalker: Creature — Elemental:  
+Phyrexian War Beast: Artifact Creature — Phyrexian Beast:  
+Haakon, Stromgald Scourge: Legendary Creature — Zombie Knight:  
+Grim Guardian: Enchantment Creature — Zombie:  
+Illusionary Presence: Creature — Illusion:  
+Triarch Stalker: Artifact Creature — Necron:  
+Oculus Whelp: Creature — Phyrexian Dragon:  
+Bala Ged Scorpion: Creature — Scorpion:  
+Scrapdiver Serpent: Creature — Serpent:  
+Skittering Monstrosity: Creature — Horror:  
+Blood Celebrant: Creature — Human Cleric:  
+Spellskite: Artifact Creature — Phyrexian Horror:  
+Chasm Skulker: Creature — Squid Horror:  
+Kindly Stranger // Demon-Possessed Witch: Creature — Human // Creature — Human Shaman:  
+Stinkdrinker Bandit: Creature — Goblin Rogue:  
+Windstorm Drake: Creature — Drake:  
+Thalakos Seer: Creature — Thalakos Wizard:  
+Soul of Ravnica: Creature — Avatar:  
+Dauthi Mercenary: Creature — Dauthi Knight Mercenary:  
+Shacklegeist: Creature — Spirit:  
+Cast Through Time: Enchantment:  
+Quest for the Gravelord: Enchantment:  
+Mists of Littjara: Enchantment — Aura:  
+Soul Stair Expedition: Enchantment:  
+In Too Deep: Enchantment — Aura:  
+Clawing Torment: Enchantment — Aura:  
+Raiders' Wake: Enchantment:  
+Favorable Winds: Enchantment:  
+Parasitic Implant: Enchantment — Aura:  
+Out of the Tombs: Enchantment:  
+Icy Prison: Enchantment:  
+Dockside Chef: Enchantment Creature — Human Citizen:  
+Illusory Gains: Enchantment — Aura:  
+Agent of Erebos: Enchantment Creature — Zombie:  
+Mask of Griselbrand: Legendary Artifact — Equipment:  
+Scuttling Doom Engine: Artifact Creature — Construct:  
+Dusk Legion Dreadnought: Artifact — Vehicle:  
+Al-abara's Carpet: Artifact:  
+Roaming Throne: Artifact Creature — Golem:  
+Coveted Jewel: Artifact:  
+Shrine of Loyal Legions: Artifact:  
+Wingrattle Scarecrow: Artifact Creature — Scarecrow:  
+Iron Lance: Artifact:  
+Waterlogged Hulk // Watertight Gondola: Artifact // Artifact — Vehicle:  
+Smelting Vat: Artifact:  
+Moriok Replica: Artifact Creature — Warrior:  
+Dissection Tools: Artifact — Equipment:  
+The Chain Veil: Legendary Artifact:  
+Chromatic Orrery: Legendary Artifact:  
+Rainbow Vale: Land:  
+Marsh Flats: Land:  
+Tyrite Sanctum: Land:  
+Moonring Island: Land — Island:  
+Maestros Theater: Land:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
+Island: Basic Land — Island:  
 Swamp: Basic Land — Swamp:  
 Swamp: Basic Land — Swamp:  
 Swamp: Basic Land — Swamp:  
@@ -81,19 +99,3 @@ Swamp: Basic Land — Swamp:
 Swamp: Basic Land — Swamp:  
 Swamp: Basic Land — Swamp:  
 Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  
-Mountain: Basic Land — Mountain:  

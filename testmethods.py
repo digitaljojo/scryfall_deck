@@ -132,7 +132,7 @@ def landfall(counter, deck):
         tot += counter[pip]
     lands = counter
     for pip in lands:
-        lands[pip] = math.ceil(lands[pip] / tot * (9 - len(deck)))
+        lands[pip] = math.ceil(lands[pip] / tot * (99 - len(deck)))
     print(lands)
     return lands
 
@@ -167,8 +167,9 @@ def oracle_txt(cdr):
                                    subsequent_indent=' ' * len(prefix))
     message = cdr.oracle_text()
     print(wrapper.fill(message))
-    print('You can use the following colors in your deck:\n')
+    print('You can use the following colors in your deck:')
     human_color(cdr)
+    print('\n')
 
 def page_picker():
     tray = scrython.cards.Search(q='is:commander game:paper').total_cards()
