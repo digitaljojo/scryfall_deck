@@ -1,0 +1,67 @@
+=================
+KASLA, THE BROKEN HALO DECK LIST
+=================
+Commander: Kasla, the Broken Halo: Legendary Creature — Angel Ally, {3}{U}{R}{W}
+Captain Eberhart: Legendary Creature — Human Soldier:  2.0
+Captain Vargus Wrath: Legendary Creature — Orc Pirate:  2.0
+A-Alrund, God of the Cosmos // A-Hakka, Whispering Raven: Legendary Creature — God // Legendary Creature — Bird:  5.0
+Commander Liara Portyr: Legendary Creature — Human Soldier:  5.0
+Arjun, the Shifting Flame: Legendary Creature — Sphinx Wizard:  6.0
+Baeloth Barrityl, Entertainer: Legendary Creature — Elf Shaman:  5.0
+Alharu, Solemn Ritualist: Legendary Creature — Human Monk:  5.0
+Chandra, Fire of Kaladesh // Chandra, Roaring Flame: Legendary Creature — Human Shaman // Legendary Planeswalker — Chandra:  3.0
+Alexios, Deimos of Kosmos: Legendary Creature — Human Berserker:  4.0
+Basandra, Battle Seraph: Legendary Creature — Angel:  5.0
+Astrid Peth: Legendary Creature — Human:  2.0
+Auntie Blyte, Bad Influence: Legendary Creature — Devil Advisor:  3.0
+Anafenza, Kin-Tree Spirit: Legendary Creature — Spirit Soldier:  2.0
+Aurelia, Exemplar of Justice: Legendary Creature — Angel:  4.0
+Cleon, Merry Champion: Legendary Creature — Human Soldier:  3.0
+Alandra, Sky Dreamer: Legendary Creature — Merfolk Wizard:  4.0
+Clara Oswald: Legendary Creature — Human Advisor:  6.0
+Cayth, Famed Mechanist: Legendary Creature — Dwarf Artificer:  4.0
+Aurelia, the Warleader: Legendary Creature — Angel:  6.0
+Arbaaz Mir: Legendary Creature — Human Assassin:  2.0
+Abuelo, Ancestral Echo: Legendary Creature — Spirit:  3.0
+Anya, Merciless Angel: Legendary Creature — Angel:  5.0
+Alexi, Zephyr Mage: Legendary Creature — Human Spellshaper:  5.0
+Brinelin, the Moon Kraken: Legendary Creature — Kraken:  8.0
+Chandler: Legendary Creature — Human Rogue:  5.0
+Ayesha Tanaka, Armorer: Legendary Creature — Human Artificer:  5.0
+Breeches, Eager Pillager: Legendary Creature — Goblin Pirate:  3.0
+Anax, Hardened in the Forge: Legendary Enchantment Creature — Demigod:  3.0
+Belisarius Cawl: Legendary Artifact Creature — Human:  4.0
+Amy Pond: Legendary Creature — Human:  3.0
+Cerise, Slayer of Fear: Legendary Creature — Human Cleric Knight:  5.0
+Brimaz, King of Oreskos: Legendary Creature — Cat Soldier:  3.0
+Barrin, Master Wizard: Legendary Creature — Human Wizard:  3.0
+Azor, the Lawbringer: Legendary Creature — Sphinx:  6.0
+Bennie Bracks, Zoologist: Legendary Creature — Elf Druid:  4.0
+Ashling the Pilgrim: Legendary Creature — Elemental Shaman:  2.0
+Bill Potts: Legendary Creature — Human:  4.0
+Ash, Party Crasher: Legendary Creature — Human Peasant:  2.0
+Atemsis, All-Seeing: Legendary Creature — Sphinx:  6.0
+Alora, Merry Thief: Legendary Creature — Halfling Rogue:  3.0
+Barrin, Tolarian Archmage: Legendary Creature — Human Wizard:  3.0
+Bell Borca, Spectral Sergeant: Legendary Creature — Spirit Soldier:  4.0
+Alena, Kessig Trapper: Legendary Creature — Human Scout:  5.0
+Commander Sofia Daguerre: Legendary Creature — Human Pilot:  4.0
+Agrus Kos, Wojek Veteran: Legendary Creature — Human Soldier:  5.0
+Alora, Rogue Companion: Legendary Creature — Halfling Rogue:  4.0
+Alrund, God of the Cosmos // Hakka, Whispering Raven: Legendary Creature — God // Legendary Creature — Bird:  5.0
+Breeches, the Blastmaker: Legendary Creature — Goblin Pirate:  3.0
+Go-Shintai of Ancient Wars: Legendary Enchantment Creature — Shrine:  3.0
+Feywild Visitor: Legendary Enchantment — Background:  3.0
+Iroas, God of Victory: Legendary Enchantment Creature — God:  4.0
+Purphoros, Bronze-Blooded: Legendary Enchantment Creature — God:  5.0
+Jacob Hauken, Inspector // Hauken's Insight: Legendary Creature — Human Advisor // Legendary Enchantment:  2.0
+Flaming Fist: Legendary Enchantment — Background:  3.0
+Elesh Norn // The Argent Etchings: Legendary Creature — Phyrexian Praetor // Enchantment — Saga:  4.0
+Tavern Brawler: Legendary Enchantment — Background:  3.0
+Street Urchin: Legendary Enchantment — Background:  2.0
+Shameless Charlatan: Legendary Enchantment — Background:  2.0
+Jin-Gitaxias // The Great Synthesis: Legendary Creature — Phyrexian Praetor // Enchantment — Saga:  5.0
+Thassa, God of the Sea: Legendary Enchantment Creature — God:  3.0
+Katilda, Dawnhart Martyr // Katilda's Rising Dawn: Legendary Creature — Spirit Warlock // Legendary Enchantment — Aura:  3.0
+Rowan Kenrith: Legendary Planeswalker — Rowan:  6.0
+Nahiri, the Lithomancer: Legendary Planeswalker — Nahiri:  5.0

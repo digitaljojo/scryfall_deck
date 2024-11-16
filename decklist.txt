@@ -1,0 +1,99 @@
+Rohgahh of Kher Keep: Legendary Creature — Kobold, {2}{B}{B}{R}{R}
+Rubblebelt Boar: Creature — Boar:  
+Sengir Vampire: Creature — Vampire:  
+Junkyard Genius: Creature — Human Artificer:  
+Coal Golem: Artifact Creature — Golem:  
+Fervent Champion: Creature — Human Knight:  
+Drifting Shade: Creature — Shade:  
+Basal Thrull: Creature — Thrull:  
+Embodiment of Fury: Creature — Elemental:  
+Bazaar Trader: Creature — Goblin:  
+Shell Skulkin: Artifact Creature — Scarecrow:  
+Treasure Nabber: Creature — Goblin Rogue:  
+Arms Dealer: Creature — Goblin Rogue:  
+Necroplasm: Creature — Ooze:  
+Gonti, Lord of Luxury: Legendary Creature — Aetherborn Rogue:  
+Time Reaper: Creature — Alien Horror:  
+Ore Gorger: Creature — Spirit:  
+Bloodtithe Collector: Creature — Vampire Noble:  
+Maulfist Squad: Creature — Human Artificer:  
+Defiant Salvager: Creature — Aetherborn Artificer:  
+Pardic Lancer: Creature — Human Barbarian:  
+Rime Transfusion: Snow Enchantment — Aura:  
+Burning Sands: Enchantment:  
+Chthonian Nightmare: Enchantment:  
+Rumbling Crescendo: Enchantment:  
+Inner Demon: Enchantment — Aura:  
+Where Ancients Tread: Enchantment:  
+Fervor: Enchantment:  
+Bloodfire Infusion: Enchantment — Aura:  
+Pestilence: Enchantment:  
+Flowstone Blade: Enchantment — Aura:  
+Hazoret's Monument: Legendary Artifact:  
+Fifty Feet of Rope: Artifact:  
+Crumbling Sanctuary: Artifact:  
+Anvilwrought Raptor: Artifact Creature — Bird:  
+Chrome Steed: Artifact Creature — Horse:  
+Slicer, Hired Muscle // Slicer, High-Speed Antagonist: Legendary Artifact Creature — Robot // Legendary Artifact — Vehicle:  
+Crystal Rod: Artifact:  
+Bomat Courier: Artifact Creature — Construct:  
+Ring of Kalonia: Artifact — Equipment:  
+Lead Pipe: Artifact — Clue Equipment:  
+Flowstone Thopter: Artifact Creature — Thopter:  
+Matzalantli, the Great Door // The Core: Legendary Artifact // Legendary Land:  
+Infiltration Lens: Artifact — Equipment:  
+Library of Leng: Artifact:  
+Implement of Malice: Artifact:  
+Liliana Vess: Legendary Planeswalker — Liliana:  
+Liliana, Death Mage: Legendary Planeswalker — Liliana:  
+Chandra, Legacy of Fire: Legendary Planeswalker — Chandra:  
+Liliana of the Veil: Legendary Planeswalker — Liliana:  
+Jaya Ballard: Legendary Planeswalker — Jaya:  
+Jaya, Fiery Negotiator: Legendary Planeswalker — Jaya:  
+Lolth, Spider Queen: Legendary Planeswalker — Lolth:  
+Liliana, Heretical Healer // Liliana, Defiant Necromancer: Legendary Creature — Human Cleric // Legendary Planeswalker — Liliana:  
+Sorin the Mirthless: Legendary Planeswalker — Sorin:  
+Karn, Living Legacy: Legendary Planeswalker — Karn:  
+Shatterskull Smashing // Shatterskull, the Hammer Pass: Sorcery // Land:  
+Sandstone Needle: Land:  
+Howltooth Hollow: Land:  
+Akoum Refuge: Land:  
+Labyrinth of Skophos: Land:  
+Thriving Moor: Land:  
+Spikefield Hazard // Spikefield Cave: Instant // Land:  
+Archway Commons: Land:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  
+Mountain: Basic Land — Mountain:  

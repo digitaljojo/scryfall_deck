@@ -1,0 +1,100 @@
+Chatterfang, Squirrel General: Legendary Creature — Squirrel Warrior, {2}{G}
+Ambitious Dragonborn: Creature — Dragon Barbarian:  
+Stronghold Assassin: Creature — Phyrexian Zombie Assassin:  
+Tenured Inkcaster: Creature — Vampire Warlock:  
+Vindictive Vampire: Creature — Vampire:  
+Viscid Lemures: Creature — Spirit:  
+Okiba-Gang Shinobi: Creature — Rat Ninja:  
+Champion of Rhonas: Creature — Jackal Warrior:  
+Overzealous Muscle: Creature — Ogre Mercenary:  
+Meandering Towershell: Creature — Turtle:  
+Cryptolith Fragment // Aurora of Emrakul: Artifact // Creature — Eldrazi Reflection:  
+Wild Elephant: Creature — Elephant:  
+Glissa, the Traitor: Legendary Creature — Phyrexian Zombie Elf:  
+Silver Deputy: Artifact Creature — Mercenary:  
+Drumhunter: Creature — Human Druid Warrior:  
+Pygmy Allosaurus: Creature — Dinosaur:  
+Andradite Leech: Creature — Leech:  
+Brass Squire: Artifact Creature — Myr:  
+Walking Bulwark: Artifact Creature — Golem:  
+Razortooth Rats: Creature — Rat:  
+Doomwake Giant: Enchantment Creature — Giant:  
+Elvish Vanguard: Creature — Elf Warrior:  
+Ayumi, the Last Visitor: Legendary Creature — Spirit:  
+Entomber Exarch: Creature — Phyrexian Cleric:  
+Blood Researcher: Creature — Vampire Druid:  
+Complex Automaton: Artifact Creature — Golem:  
+Floriferous Vinewall: Creature — Plant Wall:  
+Fleshwrither: Creature — Horror:  
+Ravenous Chupacabra: Creature — Beast Horror:  
+Prosperous Innkeeper: Creature — Halfling Citizen:  
+Liberator, Urza's Battlethopter: Legendary Artifact Creature — Thopter:  
+Bamboo Grove Archer: Enchantment Creature — Snake Archer:  
+Gift of the Deity: Enchantment — Aura:  
+Oath of the Grey Host: Enchantment — Saga:  
+Funeral March: Enchantment — Aura:  
+Font of Fertility: Enchantment:  
+Dead Weight: Enchantment — Aura:  
+Urza's Saga: Enchantment Land — Urza's Saga:  
+Eyes of the Wisent: Kindred Enchantment — Elemental:  
+Unhallowed Pact: Enchantment — Aura:  
+Endless Scream: Enchantment — Aura:  
+Steal Strength: Instant:  
+Unfortunate Accident: Instant:  
+Duel for Dominance: Instant:  
+Master's Rebuke: Instant:  
+Wildsize: Instant:  
+Intrepid Trufflesnout // Go Hog Wild: Creature — Boar // Instant — Adventure:  
+Fated Intervention: Instant:  
+Kamahl's Will: Instant:  
+Touch of Moonglove: Instant:  
+Fake Your Own Death: Instant:  
+Claim the Precious: Sorcery:  
+Wear Down: Sorcery:  
+Bontu's Last Reckoning: Sorcery:  
+Inquisition: Sorcery:  
+Witch's Vengeance: Sorcery:  
+Liliana of the Veil: Legendary Planeswalker — Liliana:  
+Sorin the Mirthless: Legendary Planeswalker — Sorin:  
+Lolth, Spider Queen: Legendary Planeswalker — Lolth:  
+Crypt of Agadeem: Land:  
+Forsaken City: Land:  
+Khalni Ambush // Khalni Territory: Instant // Land:  
+Naya Panorama: Land:  
+Dark Depths: Legendary Snow Land:  
+Hooded Brawler: Creature — Snake Warrior:  
+Alpha Tyrranax: Creature — Dinosaur Beast:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Swamp: Basic Land — Swamp:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  
+Forest: Basic Land — Forest:  

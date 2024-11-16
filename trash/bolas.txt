@@ -1,0 +1,43 @@
+=================
+=================
+DECK LIST
+=================
+=================
+1113 13NOV24
+NICOL BOLAS, THE RAVAGER // NICOL BOLAS, THE ARISEN DECK LIST
+=================
+=================
+Commander: Nicol Bolas, the Ravager // Nicol Bolas, the Arisen: Legendary Creature — Elder Dragon // Legendary Planeswalker — Bolas, 4.0
+Tin-Wing Chimera: Artifact Creature — Chimera:  {4}
+Necrite: Creature — Thrull:  {1}{B}{B}
+Mardu Shadowspear: Creature — Human Warrior:  {B}
+Myr Sire: Artifact Creature — Phyrexian Myr:  {2}
+Keen Glidemaster: Creature — Human Soldier:  {1}{U}
+Gadrak, the Crown-Scourge: Legendary Creature — Dragon:  {2}{R}
+Magus of the Moon: Creature — Human Wizard:  {2}{R}
+Flowstone Shambler: Creature — Beast:  {2}{R}
+Falkenrath Noble: Creature — Vampire Noble:  {3}{B}
+Belbe's Percher: Creature — Bird:  {2}{B}
+Manticore: Creature — Manticore:  {3}{B}
+Krovikan Sorcerer: Creature — Human Wizard:  {2}{U}
+Viashino Pyromancer: Creature — Lizard Wizard:  {1}{R}
+Valley Rotcaller: Creature — Squirrel Warlock:  {1}{B}
+Pitiless Plunderer: Creature — Human Pirate:  {3}{B}
+Ruthless Knave: Creature — Orc Pirate:  {2}{B}
+Stunt Double: Creature — Shapeshifter:  {3}{U}
+Furnace Whelp: Creature — Dragon:  {2}{R}{R}
+Phantom Warrior: Creature — Illusion Warrior:  {1}{U}{U}
+Nardole, Resourceful Cyborg: Legendary Artifact Creature — Scientist:  {1}{U}
+Judith, the Scourge Diva: Legendary Creature — Human Shaman:  {1}{B}{R}
+Asylum Visitor: Creature — Vampire Wizard:  {1}{B}
+Dross Hopper: Creature — Phyrexian Insect Horror:  {1}{B}
+Merfolk Falconer: Creature — Merfolk Wizard:  {3}{U}{U}
+Sphinx of the Final Word: Creature — Sphinx:  {5}{U}{U}
+Sakashima's Student: Creature — Human Ninja:  {2}{U}{U}
+Merfolk Trickster: Creature — Merfolk Wizard:  {U}{U}
+Nashi, Moon Sage's Scion: Legendary Creature — Rat Ninja:  {1}{B}{B}
+Charging Tuskodon: Creature — Dinosaur:  {3}{R}{R}
+Nirkana Assassin: Creature — Vampire Assassin Ally:  {2}{B}
+Viral Drake: Creature — Phyrexian Drake:  {3}{U}
+Persistent Petitioners: Creature — Human Advisor:  {1}{U}
+Shipbreaker Kraken: Creature — Kraken:  {4}{U}{U}

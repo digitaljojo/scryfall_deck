@@ -1,0 +1,72 @@
+
+'''
+# Add creatures to the deck. Keep mana curve closer to 4
+bar = progressbar.ProgressBar(max_value=progressbar.UnknownLength)
+while len(full_deck) < 10: # normally 33, changed for test
+    acard = tm.random_card()
+    if len(full_deck) < 23:  # This ensures 70% of creatures cost less than 5 mana.
+        if tm.identity(acard, cdr) and tm.commander_legal(acard) and 'Creature' in acard.type_line() and acard.cmc() and acard.cmc() < 5:
+            full_deck.append(acard)
+    elif tm.identity(acard, cdr) and tm.commander_legal(acard) and 'Creature' in acard.type_line() and acard.cmc():
+        full_deck.append(acard)
+    bar.update(len(full_deck))
+print('\n~~~~~~~~\n~~~~~~~~\nCreatures have been added to your deck!\n~~~~~~~~\n~~~~~~~~')
+# print('Adding sorceries\n')
+
+
+
+
+while len(full_deck) < 40:
+    acard = tm.random_card()
+    if len(full_deck) < 36:  # This ensures 70% of sorceries cost less than 5 mana.
+        if tm.identity(acard, cdr) and tm.commander_legal(
+                acard) and 'Sorcery' in acard.type_line() and acard.cmc() and acard.cmc() < 5:
+            full_deck.append(acard)
+            #bar.update(len(full_deck))
+    elif tm.identity(acard, cdr) and tm.commander_legal(acard) and 'Sorcery' in acard.type_line():
+        full_deck.append(acard)
+    bar.update(len(full_deck))
+print('~~~~~~~~\n~~~~~~~~\nSorceries have been added to your deck!\n~~~~~~~~\n~~~~~~~~')
+print('Adding Instants\n')
+
+bar = progressbar.ProgressBar(max_value=progressbar.UnknownLength)
+while len(full_deck) < 50:
+    acard = tm.random_card()
+    if len(full_deck) < 46:  # This ensures more Instants cost less than 5 mana.
+        if tm.identity(acard, cdr) and tm.commander_legal(
+                acard) and 'Instant' in acard.type_line() and acard.cmc() and acard.cmc() < 5:
+            full_deck.append(acard)
+            #bar.update(len(full_deck))
+    elif tm.identity(acard, cdr) and tm.commander_legal(acard) and 'Instant' in acard.type_line():
+        full_deck.append(acard)
+    bar.update(len(full_deck))
+print('~~~~~~~~\n~~~~~~~~\nInstants have been added to your deck!\n~~~~~~~~\n~~~~~~~~')
+print('Adding Artifacts\n')
+
+bar = progressbar.ProgressBar(max_value=progressbar.UnknownLength)
+while len(full_deck) < 57:
+    acard = tm.random_card()
+    if len(full_deck) < 53:  # This ensures most artifacts cost less than 5 mana.
+        if tm.identity(acard, cdr) and tm.commander_legal(
+                acard) and 'Artifact' in acard.type_line() and acard.cmc() and acard.cmc() < 5:
+            full_deck.append(acard)
+            #bar.update(len(full_deck))
+    elif tm.identity(acard, cdr) and tm.commander_legal(acard) and 'Artifact' in acard.type_line():
+        full_deck.append(acard)
+    bar.update(len(full_deck))
+print('~~~~~~~~\n~~~~~~~~\nArtifacts have been added to your deck!\n~~~~~~~~\n~~~~~~~~')
+print('Adding Enchantments\n')
+
+bar = progressbar.ProgressBar(max_value=progressbar.UnknownLength)
+while len(full_deck) < 63:
+    acard = tm.random_card()
+    if len(full_deck) < 58:  # This ensures 70% of Enchantments cost less than 5 mana.
+        if tm.identity(acard, cdr) and tm.commander_legal(
+                acard) and 'Enchantment' in acard.type_line() and acard.cmc() and acard.cmc() < 5:
+            full_deck.append(acard)
+            #bar.update(len(full_deck))
+    elif tm.identity(acard, cdr) and tm.commander_legal(acard) and 'Enchantment' in acard.type_line():
+        full_deck.append(acard)
+    bar.update(len(full_deck))
+print('~~~~~~~~\n~~~~~~~~\nEnchantments have been added to your deck!\n~~~~~~~~\n~~~~~~~~')
+'''
