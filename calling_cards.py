@@ -1,10 +1,10 @@
-import textwrap
+import math
 import os
 import progressbar
-import scrython
 from random import randint
-import math
 import re
+import scrython
+import textwrap
 
 
 def produce_mana_type(cdr):  # Returns a string for mana dorks and lands
@@ -103,15 +103,10 @@ def deck_base(cdr, deck):
         while card == cdr or card in deck or card in slots:
             y = randint(0, tray.data_length() - 1)
             card = tray.data(y)
-            # print(card['name'])
         slots.append(card)
-        #print(card['name'] + '\n')
         bar.update(len(slots))
     deck = deck + slots
     return deck
-
-
-
 
 
 def file_name():
@@ -149,10 +144,6 @@ def landfall(counter, deck):
     test = 0
     for pip in lands:
         test += lands[pip]
-    '''if test >36:                                                                              
-        lands = counter                                                                       
-        for pip in lands:                                                                     
-            lands[pip] = math.floor(lands[pip] / tot * (98 - len(deck)))  '''
     print(lands)
     return lands
 
@@ -172,9 +163,7 @@ def moar_land(cdr, deck):
         while card == cdr or card in deck or card in slots:
             y = randint(0, tray.data_length() - 1)
             card = tray.data(y)
-            # print(card['name'])
         slots.append(card)
-        # print(card['name'] + '\n')
         bar.update(len(slots))
     deck = deck + slots
 
@@ -193,14 +182,14 @@ def mana_costs(deck):
         try:
             check = i['mana_cost']  # pulls the mana cost
         except TypeError:
-            print(i)
+            # print(i)
             check = i.mana_cost()  # pulls the mana cost
         except KeyError:
             try:
-                print(i)
+                # print(i)
                 check = i['card_faces'][0]['mana_cost']
             except AttributeError:
-                print(i)
+                # print(i)
                 check = i['card_faces'][1]['mana_cost']
         for pip in counter:
             if check:
@@ -211,7 +200,7 @@ def mana_costs(deck):
                 pass
     for pip in counter:
         tot += counter[pip]
-    print(f'Your deck has {tot} pips of mana.\nCalculating mana base~\n')
+    print(f'\nYour deck has {tot} pips of mana.\nCalculating mana base~')
     return counter
 
 
@@ -297,9 +286,7 @@ def removal(cdr, deck):
         while card == cdr or card in deck or card in slots:
             y = randint(0, tray.data_length() - 1)
             card = tray.data(y)
-            # print(card['name'])
         slots.append(card)
-        #print(card['name'] + '\n')
         bar.update(len(slots))
     deck = deck + slots
     return deck

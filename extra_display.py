@@ -41,7 +41,7 @@ def main():
     full_deck = c.moar_land(cdr, full_deck)
 
     # Output the list
-    print(f"Printing out your {len(full_deck)} card deck list!\n")
+    print(f"\nPrinting out your {len(full_deck)+1} card deck list!")
     with open(c.file_name(), 'w') as decklist:
         try:
             decklist.write(f'{cdr.name()}: {cdr.type_line()}, {cdr.mana_cost()}\n')
