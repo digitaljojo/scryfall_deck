@@ -1,4 +1,4 @@
-import testmethods as t
+from trash import testmethods as t
 
 '''
 This file is merely for verifying the typing output of each fn

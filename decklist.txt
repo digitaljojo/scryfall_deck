@@ -1,101 +1,99 @@
-Anowon, the Ruin Thief: Legendary Creature — Vampire Rogue, {2}{U}{B}
-Lore Weaver: Creature — Human Wizard:  
-Demon of Fate's Design: Enchantment Creature — Demon:  
-Stronghold Taskmaster: Creature — Giant Minion:  
-Soul Collector: Creature — Vampire:  
-Supreme Inquisitor: Creature — Human Wizard:  
-Flesh-Eater Imp: Creature — Phyrexian Imp:  
-Volatile Rig: Artifact Creature — Construct:  
-Gilded Scuttler: Artifact Creature — Crab:  
-Terisian Mindbreaker: Artifact Creature — Juggernaut:  
-Silent Assassin: Creature — Human Mercenary Assassin:  
-Geyserfield Stalker: Creature — Elemental:  
-Phyrexian War Beast: Artifact Creature — Phyrexian Beast:  
-Haakon, Stromgald Scourge: Legendary Creature — Zombie Knight:  
-Grim Guardian: Enchantment Creature — Zombie:  
-Illusionary Presence: Creature — Illusion:  
-Triarch Stalker: Artifact Creature — Necron:  
-Oculus Whelp: Creature — Phyrexian Dragon:  
-Bala Ged Scorpion: Creature — Scorpion:  
-Scrapdiver Serpent: Creature — Serpent:  
-Skittering Monstrosity: Creature — Horror:  
-Blood Celebrant: Creature — Human Cleric:  
-Spellskite: Artifact Creature — Phyrexian Horror:  
-Chasm Skulker: Creature — Squid Horror:  
-Kindly Stranger // Demon-Possessed Witch: Creature — Human // Creature — Human Shaman:  
-Stinkdrinker Bandit: Creature — Goblin Rogue:  
-Windstorm Drake: Creature — Drake:  
-Thalakos Seer: Creature — Thalakos Wizard:  
-Soul of Ravnica: Creature — Avatar:  
-Dauthi Mercenary: Creature — Dauthi Knight Mercenary:  
-Shacklegeist: Creature — Spirit:  
-Cast Through Time: Enchantment:  
-Quest for the Gravelord: Enchantment:  
-Mists of Littjara: Enchantment — Aura:  
-Soul Stair Expedition: Enchantment:  
-In Too Deep: Enchantment — Aura:  
-Clawing Torment: Enchantment — Aura:  
-Raiders' Wake: Enchantment:  
-Favorable Winds: Enchantment:  
-Parasitic Implant: Enchantment — Aura:  
-Out of the Tombs: Enchantment:  
-Icy Prison: Enchantment:  
-Dockside Chef: Enchantment Creature — Human Citizen:  
-Illusory Gains: Enchantment — Aura:  
-Agent of Erebos: Enchantment Creature — Zombie:  
-Mask of Griselbrand: Legendary Artifact — Equipment:  
-Scuttling Doom Engine: Artifact Creature — Construct:  
-Dusk Legion Dreadnought: Artifact — Vehicle:  
-Al-abara's Carpet: Artifact:  
-Roaming Throne: Artifact Creature — Golem:  
-Coveted Jewel: Artifact:  
-Shrine of Loyal Legions: Artifact:  
-Wingrattle Scarecrow: Artifact Creature — Scarecrow:  
-Iron Lance: Artifact:  
-Waterlogged Hulk // Watertight Gondola: Artifact // Artifact — Vehicle:  
-Smelting Vat: Artifact:  
-Moriok Replica: Artifact Creature — Warrior:  
-Dissection Tools: Artifact — Equipment:  
-The Chain Veil: Legendary Artifact:  
-Chromatic Orrery: Legendary Artifact:  
-Rainbow Vale: Land:  
-Marsh Flats: Land:  
-Tyrite Sanctum: Land:  
-Moonring Island: Land — Island:  
-Maestros Theater: Land:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Island: Basic Land — Island:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
-Swamp: Basic Land — Swamp:  
+Boromir, Warden of the Tower: Legendary Creature — Human Soldier, {2}{W}
+Task Force
+Revered Unicorn
+Yotian Soldier
+Silver Deputy
+Magus of the Tabernacle
+Crusader of Odric
+Marble Priest
+Ivory Giant
+Talus Paladin
+Blight Herder
+Dust Elemental
+Mycologist
+Sanctuary Wall
+Layla Hassan
+Skyline Scout
+Moonlight Geist
+Territorial Roc
+Sun Sentinel
+Standard Bearer
+Friendly Teddy
+Civic Stalwart
+Dawn Gryff
+Phyrexian Dreadnought
+Sphere of Safety
+Gideon's Intervention
+Mageta's Boon
+Planar Collapse
+Remembrance
+Vigil for the Lost
+Fight or Flight
+Mantle of Leadership
+Relic Ward
+Act of Authority
+Sickleslicer
+Scrapheap
+Ersatz Gnomes
+Cosmos Elixir
+Phyrexian Splicer
+Ecologist's Terrarium
+Trading Post
+Panacea
+Wurm's Tooth
+Yggdrasil, Rebirth Engine
+Trash Bin
+Helm of Awakening
+Sword of Feast and Famine
+Weakstone
+Serrated Arrows
+Masterwork of Ingenuity
+Surestrike Trident
+Wall of Forgotten Pharaohs
+Glaring Spotlight
+Walking Wall
+Collar the Culprit
+Joust Through
+Center Soul
+Show of Confidence
+Pull from Eternity
+Glare of Heresy
+Elspeth, Knight-Errant
+Ajani, Adversary of Tyrants
+Quicksand
+Blighted Steppe
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains
+Plains

@@ -28,73 +28,45 @@ def add_basic_lands(counter, deck):  # returns the deck with basic lands added
     return deck
 
 
-def auto_fill(deck, cdr):
-    # Automatically performs the actions of the fill function for pure random deck goodness.
-    typing = ['Creature', 'Enchantment', 'Artifact', 'Instant', 'Sorcery', 'Planeswalker', 'Land']
-    # Loop through the types of cards and adds a set amount.
-    for i in typing:
-        timing = 0
-        match i:
-            case 'Creature':
-                timing = 35
-            case 'Enchantment':
-                timing = 4
-            case 'Artifact':
-                timing = 4
-            case 'Instant':
-                timing = 6
-            case 'Sorcery':
-                timing = 6
-            case 'Planeswalker':
-                timing = 4
-            case 'Land':
-                timing = 5
-            case _:
-                print('Well, this is awkward...')
-
-        for a in range(timing):
-            plus = search_add(cdr, i.lower(), 10)
-            deck.append(plus)
+'''
+def auto_string(str,pg):
 
 
-def fill(cdr):
-    # Print out card types available to add.
-    typing = ['Creature', 'Enchantment', 'Artifact', 'Instant', 'Sorcery', 'Planeswalker', 'Land']
-    print('Card-types:')
-    for i in range(len(typing)):
-        if i == len(typing) - 1:
-            print(f'{i}. {typing[i]}')
-        elif i == len(typing) / 2 - 1:
-            print(f'{i}. {typing[i]} \n')
-        else:
-            print(f'{i}. {typing[i]}', end=' <<*>> ')
 
-    # Ask the user for card type, max CMC
-    check = int(input('What type of cards do you want to add?   '))
-    while check not in range(len(typing)) and not isinstance(check, int):
-        check = int(input('What type of cards do you want to add?   '))
+def auto_fill():
+    haul = scrython.cards.Search(q='color<=')
+    return haul
+'''
 
-    mv = int(input('How high do you want the CMC to be? Input a number:   '))
+def fill(cdr, c_type, dlen):
+    # Requests highest cmc.
+    mv = int(input('Highest CMC? Input a number:   '))
     while not isinstance(mv, int):
         mv = int(input('How high do you want the CMC to be? Input a number:   '))
 
-    deck = []
     # Determine how many of that card type to add to deck.
-    amt = int(input('How many do you want to add?   '))
-    while 63 - (len(deck) + amt) < 0 or not isinstance(amt, int):  # verifies you can add the cards to your deck
-        amt = int(input('<<<<<<ERROR: Invalid value.>>>>>>\nHow many do you want to add?   '))
+    if c_type in 'Land':
+        amt = 63 - dlen
+        print('Adding lands to finish off the deck!')
+    else:
+        amt = int(input('How many?   '))
+        while 63 - (dlen + amt) < 0 or not isinstance(amt, int):  # verifies you have space
+            amt = int(input('<<<<<<ERROR: Invalid value.>>>>>>\nHow many do you want to add?   '))
 
-    finder = typing[check]
+    listed = []
     bar = progressbar.ProgressBar(max_value=progressbar.UnknownLength)
-    while len(deck) < amt:
-        plus = search_add(cdr, finder, int(mv))
+    while len(listed) < amt:
+        plus = search_add(cdr, c_type, mv)
         while plus['name'] in cdr.name():
             print('\nGreat minds think alike \n')
-            plus = search_add(cdr, finder, int(mv))
-        deck.append(plus)
-        bar.update(len(deck))
+            plus = search_add(cdr, c_type, mv)
+        if plus not in listed:
+            listed.append(plus)
+        bar.update(len(listed))
+    print('\n')
 
-    return deck
+
+    return listed
 
 
 def human_color(card):
@@ -132,7 +104,14 @@ def landfall(counter, deck):
         tot += counter[pip]
     lands = counter
     for pip in lands:
-        lands[pip] = math.ceil(lands[pip] / tot * (99 - len(deck)))
+        lands[pip] = math.ceil(lands[pip] / tot * (98 - len(deck)))
+    test = 0
+    for pip in lands:
+        test += lands[pip]
+    if test >36:
+        lands = counter
+        for pip in lands:
+            lands[pip] = math.floor(lands[pip] / tot * (98 - len(deck)))
     print(lands)
     return lands
 
@@ -165,20 +144,33 @@ def oracle_txt(cdr):
     pref_width = 70
     wrapper = textwrap.TextWrapper(initial_indent=prefix, width=pref_width,
                                    subsequent_indent=' ' * len(prefix))
-    message = cdr.oracle_text()
-    print(wrapper.fill(message))
-    print('You can use the following colors in your deck:')
-    human_color(cdr)
-    print('\n')
+    try:
+        message = cdr.oracle_text()
+        print(wrapper.fill(message))
+    except KeyError or TypeError as err:
+        print(cdr.card_faces()[0]['name'])
+        message = cdr.card_faces()[0]['oracle_text']
+        print(wrapper.fill(message))
+        print(cdr.card_faces()[1]['name'])
+        message = cdr.card_faces()[1]['oracle_text']
+        print(wrapper.fill(message))
+    finally:
+        print('You can use the following colors in your deck:')
+        human_color(cdr)
+        print('\n')
 
 def page_picker():
-    tray = scrython.cards.Search(q='is:commander game:paper').total_cards()
-    pages = randint(1, math.ceil(tray / 175))
+    try:
+        tray = scrython.cards.Search(q='is:commander game:paper -kw:companion -kw:background t:creature').total_cards()
+        pages = randint(1, math.ceil(tray / 175))
+    except scrython.ScryfallError:
+        tray = scrython.cards.Search(q='is:commander game:paper -kw:companion -kw:background t:creature').total_cards()
+        pages = randint(1, math.ceil(tray / 175))
     return pages
 
 
 def rand_commander() -> object:  # print random card as Named obj
-    num = scrython.cards.Search(page=page_picker(), q='is:commander game:paper -kw:companion -kw:background')
+    num = scrython.cards.Search(page=page_picker(), q='is:commander game:paper -kw:companion -kw:background t:creature')
     picked = randint(0, num.data_length() - 1)
     num = num.data(picked, 'name')
     print(num)
